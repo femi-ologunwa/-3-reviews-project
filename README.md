@@ -2,7 +2,7 @@
 
 ![](./homescreen.gif)
 
-[view page](https://femi-ologunwa.github.io/-3-reviews-project/)
+[view page](https://femicodeconnect.github.io/reviews/)
 
 -  Get individual data item ( not all data items) from a data list in a data file.
 -  Illustrate the use of React Icons library

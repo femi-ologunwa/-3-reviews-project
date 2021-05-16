@@ -2,7 +2,7 @@
    "name": "reviews",
    "version": "0.1.0",
    "private": true,
-   "homepage": "https://femi-ologunwa.github.io/-3-reviews-project",
+   "homepage": "https://femicodeconnect.github.io/reviews",
    "dependencies": {
       "@testing-library/jest-dom": "^4.2.4",
       "@testing-library/react": "^9.5.0",
